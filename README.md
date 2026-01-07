@@ -84,7 +84,7 @@ These effects accumulate gradually and are often missed by static liquidity repo
 ![KPI Dashboard](assets/kpi-dashboard.png)
 
 **Liquidity Runway**  
-![Liquidity Runway](assets/liquidity-runway.png)
+![Liquidity Runway]([assets/liquidity-runway.png](https://github.com/mmaxtaylor2/Liquidity-Risk-in-a-Higher-for-Longer-Rate-Environment/blob/main/assets/liqudity-runway.png?raw=true))
 
 **Key Assumptions**  
 ![Key Assumptions](assets/key-assumptions.png)
